@@ -2,3 +2,5 @@
 *.DS_Store
 vendor
 .idea
+/app/webroot/files/thumbnails/*
+/app/webroot/files/images/*
